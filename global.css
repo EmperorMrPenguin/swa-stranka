@@ -70,6 +70,8 @@ nav {
   position: sticky;
   background-color: #0000006c;
   border-radius: 25px;
+  margin-left:20px;
+  margin-right:20px;
 }
  
  ul {
@@ -208,6 +210,7 @@ article.right h2 {
   text-align: right;
 }
 
+
 article.right img {
   float: left;
   margin-left:100px;
@@ -222,10 +225,11 @@ article.right {
 }
 /* Footer Styling */
 footer {
-   background-color: #333;
+   background-color: #000000;
    color: white;
    text-align: center;
-   padding: 10px;
+   font-size:20px;
+   padding-top: 100px;
    position: relative;
    bottom: 0;
    width: 100%;
